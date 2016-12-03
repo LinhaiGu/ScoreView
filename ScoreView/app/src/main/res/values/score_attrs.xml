@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScoreView">
+
+        <attr name="mOutCircleColor" format="color" />//外圆颜色
+        <attr name="mInArcWidth" format="dimension" />//内弧线宽度
+        <attr name="mTextSize" format="dimension" />//文字大小
+        <attr name="mInCircleColor" format="color" />//内圆颜色
+        <attr name="mInCircleWidth" format="dimension" />//内圆宽度
+
+    </declare-styleable>
+
+</resources>
